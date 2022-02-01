@@ -59,6 +59,7 @@
 185.211.168.0  	1024	reserved
 185.225.188.0  	1024	reserved
 185.228.56.0   	1024	reserved
+185.238.140.0  	1024	reserved
 185.244.160.0  	1024	reserved
 193.0.159.0    	256	reserved
 193.9.20.0     	256	reserved
@@ -114,6 +115,7 @@
 195.2.234.0    	512	reserved
 195.2.248.0    	512	reserved
 195.3.160.0    	1024	reserved
+195.24.244.0   	512	reserved
 195.35.105.0   	256	reserved
 195.43.134.0   	256	reserved
 195.54.58.0    	512	reserved
@@ -126,12 +128,11 @@
 195.138.217.0  	256	reserved
 195.191.230.0  	512	reserved
 195.211.164.0  	1024	reserved
+195.226.216.0  	256	reserved
 195.234.49.0   	256	reserved
 195.250.49.0   	256	reserved
 212.6.36.0     	256	reserved
 212.46.32.0    	8192	reserved
 217.28.128.0   	4096	reserved
 217.198.176.0  	4096	reserved
-93.177.104.0   	1024	available
-185.128.224.0  	1024	available
-195.64.126.0   	512	available
+185.128.225.0  	768	available
