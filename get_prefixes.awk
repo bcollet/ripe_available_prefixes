@@ -27,17 +27,17 @@ function dec2ip(dec_prefix) {
   return b1 "." b2 "." b3 "." b4
 }
 
-function compute_prefix(prefix, count, status, count_alloc) {
+function compute_prefix(prefix, count, status) {
   split(prefix, bytes, ".")
 
   # Everything in 151.216.0.0/13 is reserved for temporary assignments
   if(bytes[1] == 151 && bytes[2] >= 216 && bytes[2] <= 223) {
-    return 0
+    return
   }
 
   # Everything in 185.0.0.0/15 is reserved for IXP assignments
   if(bytes[1] == 185 && bytes[2] <= 1) {
-    return 0
+    return
   }
 
   for(i = 4; i >= 0; i--) {
@@ -59,9 +59,9 @@ function compute_prefix(prefix, count, status, count_alloc) {
 
       if(remainder > 0) {
         new_prefix = dec2ip(ip2dec(prefix) + max_count)
-        count_alloc = count_alloc + compute_prefix(new_prefix, remainder, status, count_alloc)
+        compute_prefix(new_prefix, remainder, status)
       }
-      return count_alloc
+      return
     }
   }
 }
@@ -72,7 +72,7 @@ BEGIN {
   count_alloc = 0
 }
 $3 == "ipv4" && $7 ~ /(reserved|available)/ && $5 >= 256 {
-  count_alloc = compute_prefix($4, $5, $7, count_alloc)
+  compute_prefix($4, $5, $7)
 }
 END {
   print "Number of /24 available for future allocation: " count_alloc
