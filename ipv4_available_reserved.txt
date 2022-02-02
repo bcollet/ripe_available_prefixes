@@ -130,4 +130,4 @@ Prefix              Addresses Status
 217.28.128.0/20     4096      reserved
 217.198.176.0/20    4096      reserved
 185.128.226.0/23    512       available
-Number of /24 available for future allocation: 365
+Number of /24 available for future allocation: 343
