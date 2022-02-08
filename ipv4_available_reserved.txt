@@ -51,7 +51,6 @@ Prefix              Addresses Status
 185.149.120.0/22    1024      reserved
 185.168.148.0/22    1024      reserved
 185.211.168.0/22    1024      reserved
-185.225.188.0/22    1024      reserved
 185.228.56.0/22     1024      reserved
 185.238.140.0/22    1024      reserved
 185.244.160.0/22    1024      reserved
@@ -129,6 +128,6 @@ Prefix              Addresses Status
 212.6.36.0/24       256       reserved
 212.46.32.0/19      8192      reserved
 217.28.128.0/20     4096      reserved
-217.198.176.0/20    4096      reserved
-91.212.103.0/24     256       available
-Number of /24 available for future allocation: 343
+185.225.188.0/22    1024      available
+217.198.176.0/20    4096      available
+Number of /24 available for future allocation: 342
