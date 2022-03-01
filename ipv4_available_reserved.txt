@@ -128,14 +128,12 @@ Prefix              Addresses Status
 195.138.217.0/24    256       reserved
 195.191.230.0/23    512       reserved
 195.211.164.0/22    1024      reserved
+195.216.248.0/24    256       reserved
 195.226.216.0/24    256       reserved
 195.234.49.0/24     256       reserved
 195.248.81.0/24     256       reserved
 195.250.49.0/24     256       reserved
 212.6.36.0/24       256       reserved
 217.28.128.0/20     4096      reserved
-80.208.221.0/24     256       available
-91.198.211.0/24     256       available
-91.233.141.0/24     256       available
-212.46.32.0/19      8192      available
-Number of /24 available for future allocation: 347
+212.46.62.0/23      512       available
+Number of /24 available for future allocation: 315
