@@ -166,6 +166,5 @@ Prefix              Addresses Status
 195.248.81.0/24     256       reserved
 195.254.164.0/23    512       reserved
 212.6.36.0/24       256       reserved
-88.151.119.0/24     256       available
 195.250.49.0/24     256       available
-Number of /24 available for future allocation: 321
+Number of /24 available for future allocation: 320
