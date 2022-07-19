@@ -37,6 +37,7 @@ Prefix              Addresses Status
 91.220.15.0/24      256       reserved
 91.220.25.0/24      256       reserved
 91.220.30.0/24      256       reserved
+91.223.10.0/24      256       reserved
 91.223.67.0/24      256       reserved
 91.223.94.0/24      256       reserved
 91.228.88.0/24      256       reserved
@@ -63,6 +64,7 @@ Prefix              Addresses Status
 185.74.220.0/22     1024      reserved
 185.149.192.0/22    1024      reserved
 185.169.76.0/22     1024      reserved
+185.218.140.0/22    1024      reserved
 185.228.56.0/22     1024      reserved
 185.238.140.0/22    1024      reserved
 185.248.144.0/22    1024      reserved
@@ -75,6 +77,7 @@ Prefix              Addresses Status
 193.37.158.0/24     256       reserved
 193.41.204.0/24     256       reserved
 193.43.104.0/23     512       reserved
+193.47.0.0/24       256       reserved
 193.53.0.0/24       256       reserved
 193.53.86.0/24      256       reserved
 193.84.71.0/24      256       reserved
@@ -107,6 +110,7 @@ Prefix              Addresses Status
 193.194.137.0/24    256       reserved
 193.200.199.0/24    256       reserved
 193.201.112.0/23    512       reserved
+193.243.146.0/23    512       reserved
 194.31.108.0/22     1024      reserved
 194.48.92.0/22      1024      reserved
 194.50.48.0/24      256       reserved
@@ -118,7 +122,6 @@ Prefix              Addresses Status
 194.106.206.0/23    512       reserved
 194.116.208.0/23    512       reserved
 194.139.30.0/24     256       reserved
-194.145.118.0/24    256       reserved
 194.147.211.0/24    256       reserved
 194.147.212.0/22    1024      reserved
 194.147.216.0/21    2048      reserved
@@ -155,6 +158,6 @@ Prefix              Addresses Status
 195.242.146.0/23    512       reserved
 195.248.81.0/24     256       reserved
 195.254.164.0/23    512       reserved
-91.213.185.0/24     256       available
+194.145.118.0/24    256       available
 194.149.236.0/23    512       available
-Number of /24 available for future allocation: 291
+Number of /24 available for future allocation: 298
