@@ -37,6 +37,7 @@ Prefix              Addresses Status
 91.220.15.0/24      256       reserved
 91.220.25.0/24      256       reserved
 91.220.30.0/24      256       reserved
+91.220.226.0/24     256       reserved
 91.223.67.0/24      256       reserved
 91.223.94.0/24      256       reserved
 91.228.88.0/24      256       reserved
@@ -95,6 +96,7 @@ Prefix              Addresses Status
 193.104.168.0/24    256       reserved
 193.104.229.0/24    256       reserved
 193.104.233.0/24    256       reserved
+193.105.29.0/24     256       reserved
 193.105.123.0/24    256       reserved
 193.105.218.0/24    256       reserved
 193.106.148.0/22    1024      reserved
@@ -163,5 +165,6 @@ Prefix              Addresses Status
 195.234.153.0/24    256       reserved
 195.242.146.0/23    512       reserved
 195.248.81.0/24     256       reserved
+195.248.90.0/24     256       reserved
 195.254.164.0/23    512       reserved
-Number of /24 available for future allocation: 312
+Number of /24 available for future allocation: 315
