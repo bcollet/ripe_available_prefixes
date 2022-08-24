@@ -15,7 +15,6 @@ Prefix              Addresses Status
 91.208.108.0/24     256       reserved
 91.208.112.0/24     256       reserved
 91.209.4.0/24       256       reserved
-91.209.73.0/24      256       reserved
 91.211.112.0/22     1024      reserved
 91.212.172.0/24     256       reserved
 91.213.73.0/24      256       reserved
@@ -26,6 +25,7 @@ Prefix              Addresses Status
 91.216.37.0/24      256       reserved
 91.216.210.0/24     256       reserved
 91.217.177.0/24     256       reserved
+91.217.211.0/24     256       reserved
 91.217.212.0/24     256       reserved
 91.217.215.0/24     256       reserved
 91.217.219.0/24     256       reserved
@@ -45,7 +45,6 @@ Prefix              Addresses Status
 91.234.48.0/24      256       reserved
 91.234.52.0/24      256       reserved
 91.236.230.0/23     512       reserved
-91.237.150.0/24     256       reserved
 91.238.62.0/24      256       reserved
 91.239.23.0/24      256       reserved
 91.239.208.0/22     1024      reserved
@@ -123,10 +122,12 @@ Prefix              Addresses Status
 194.6.253.0/24      256       reserved
 194.11.247.0/24     256       reserved
 194.31.108.0/22     1024      reserved
+194.31.250.0/23     512       reserved
 194.48.92.0/22      1024      reserved
 194.50.48.0/24      256       reserved
 194.50.153.0/24     256       reserved
 194.59.183.0/24     256       reserved
+194.59.247.0/24     256       reserved
 194.60.81.0/24      256       reserved
 194.88.11.0/24      256       reserved
 194.93.99.0/24      256       reserved
@@ -173,9 +174,8 @@ Prefix              Addresses Status
 195.242.146.0/23    512       reserved
 195.248.90.0/24     256       reserved
 195.254.164.0/23    512       reserved
-91.197.55.0/24      256       available
-91.207.248.0/24     256       available
-91.217.151.0/24     256       available
+91.209.73.0/24      256       available
+91.237.150.0/24     256       available
 94.142.254.0/23     512       available
 195.248.81.0/24     256       available
-Number of /24 available for future allocation: 322
+Number of /24 available for future allocation: 323
