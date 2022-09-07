@@ -13,6 +13,7 @@ Prefix              Addresses Status
 91.208.108.0/24     256       reserved
 91.208.112.0/24     256       reserved
 91.209.4.0/24       256       reserved
+91.209.161.0/24     256       reserved
 91.211.112.0/22     1024      reserved
 91.212.121.0/24     256       reserved
 91.212.172.0/24     256       reserved
@@ -52,7 +53,6 @@ Prefix              Addresses Status
 92.42.0.0/21        2048      reserved
 93.95.208.0/21      2048      reserved
 159.253.120.0/22    1024      reserved
-178.159.34.0/24     256       reserved
 185.33.24.0/22      1024      reserved
 185.74.220.0/22     1024      reserved
 185.98.158.0/24     256       reserved
@@ -75,7 +75,6 @@ Prefix              Addresses Status
 193.33.120.0/23     512       reserved
 193.34.201.0/24     256       reserved
 193.36.38.0/24      256       reserved
-193.37.158.0/24     256       reserved
 193.38.32.0/22      1024      reserved
 193.41.204.0/24     256       reserved
 193.43.104.0/23     512       reserved
@@ -97,7 +96,6 @@ Prefix              Addresses Status
 193.104.233.0/24    256       reserved
 193.105.29.0/24     256       reserved
 193.105.129.0/24    256       reserved
-193.105.218.0/24    256       reserved
 193.106.148.0/22    1024      reserved
 193.109.82.0/24     256       reserved
 193.109.219.0/24    256       reserved
@@ -107,7 +105,6 @@ Prefix              Addresses Status
 193.111.208.0/22    1024      reserved
 193.160.33.0/24     256       reserved
 193.164.12.0/24     256       reserved
-193.164.143.0/24    256       reserved
 193.164.147.0/24    256       reserved
 193.169.58.0/23     512       reserved
 193.178.114.0/24    256       reserved
@@ -174,5 +171,9 @@ Prefix              Addresses Status
 195.242.146.0/23    512       reserved
 195.248.90.0/24     256       reserved
 212.102.123.0/24    256       reserved
+178.159.34.0/24     256       available
+193.37.158.0/24     256       available
+193.105.218.0/24    256       available
+193.164.143.0/24    256       available
 195.206.242.0/23    512       available
-Number of /24 available for future allocation: 321
+Number of /24 available for future allocation: 322
