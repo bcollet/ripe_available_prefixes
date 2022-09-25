@@ -22,7 +22,6 @@ Prefix              Addresses Status
 91.207.116.0/23     512       reserved
 91.207.182.0/23     512       reserved
 91.208.108.0/24     256       reserved
-91.208.112.0/24     256       reserved
 91.209.4.0/24       256       reserved
 91.209.161.0/24     256       reserved
 91.211.112.0/22     1024      reserved
@@ -57,7 +56,6 @@ Prefix              Addresses Status
 91.239.23.0/24      256       reserved
 91.240.116.0/24     256       reserved
 91.240.232.0/23     512       reserved
-91.244.68.0/24      256       reserved
 91.245.221.0/24     256       reserved
 91.246.30.0/23      512       reserved
 92.42.0.0/21        2048      reserved
@@ -73,7 +71,6 @@ Prefix              Addresses Status
 185.43.144.0/22     1024      reserved
 185.46.68.0/22      1024      reserved
 185.65.104.0/22     1024      reserved
-185.74.220.0/22     1024      reserved
 185.80.88.0/22      1024      reserved
 185.84.224.0/22     1024      reserved
 185.94.30.0/24      256       reserved
@@ -150,7 +147,6 @@ Prefix              Addresses Status
 193.111.136.0/21    2048      reserved
 193.111.172.0/24    256       reserved
 193.111.236.0/24    256       reserved
-193.160.33.0/24     256       reserved
 193.162.35.0/24     256       reserved
 193.163.170.0/24    256       reserved
 193.164.147.0/24    256       reserved
@@ -225,7 +221,6 @@ Prefix              Addresses Status
 195.137.177.0/24    256       reserved
 195.138.217.0/24    256       reserved
 195.184.76.0/23     512       reserved
-195.189.244.0/23    512       reserved
 195.214.235.0/24    256       reserved
 195.226.211.0/24    256       reserved
 195.234.153.0/24    256       reserved
@@ -233,5 +228,10 @@ Prefix              Addresses Status
 195.248.90.0/24     256       reserved
 212.102.123.0/24    256       reserved
 217.18.80.0/20      4096      reserved
+91.208.112.0/24     256       available
+91.244.68.0/24      256       available
+185.74.220.0/22     1024      available
 193.111.208.0/22    1024      available
+193.160.33.0/24     256       available
+195.189.244.0/23    512       available
 Number of /24 available for future allocation: 507
