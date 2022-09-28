@@ -225,11 +225,10 @@ Prefix              Addresses Status
 195.184.76.0/23     512       reserved
 195.214.235.0/24    256       reserved
 195.234.153.0/24    256       reserved
+195.234.154.0/24    256       reserved
 195.242.146.0/23    512       reserved
 195.248.90.0/24     256       reserved
 212.102.123.0/24    256       reserved
 217.18.80.0/20      4096      reserved
-185.74.223.0/24     256       available
 193.111.208.0/22    1024      available
-195.226.211.0/24    256       available
-Number of /24 available for future allocation: 504
+Number of /24 available for future allocation: 503
