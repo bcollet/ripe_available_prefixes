@@ -23,6 +23,7 @@ Prefix              Addresses Status
 91.207.182.0/23     512       reserved
 91.208.6.0/24       256       reserved
 91.208.32.0/24      256       reserved
+91.208.77.0/24      256       reserved
 91.208.136.0/24     256       reserved
 91.209.4.0/24       256       reserved
 91.209.161.0/24     256       reserved
@@ -54,6 +55,7 @@ Prefix              Addresses Status
 91.234.145.0/24     256       reserved
 91.235.170.0/23     512       reserved
 91.236.230.0/23     512       reserved
+91.237.43.0/24      256       reserved
 91.238.62.0/24      256       reserved
 91.239.23.0/24      256       reserved
 91.239.218.0/23     512       reserved
@@ -199,10 +201,6 @@ Prefix              Addresses Status
 194.140.247.0/24    256       reserved
 194.145.115.0/24    256       reserved
 194.145.119.0/24    256       reserved
-194.147.211.0/24    256       reserved
-194.147.212.0/22    1024      reserved
-194.147.216.0/21    2048      reserved
-194.147.224.0/22.415768       reserved
 194.165.59.0/24     256       reserved
 194.173.169.0/24    256       reserved
 194.180.159.0/24    256       reserved
@@ -239,5 +237,9 @@ Prefix              Addresses Status
 212.102.123.0/24    256       reserved
 217.18.80.0/20      4096      reserved
 217.197.96.0/20     4096      reserved
-195.62.88.0/23      512       available
-Number of /24 available for future allocation: 518
+194.147.211.0/24    256       available
+194.147.212.0/22    1024      available
+194.147.216.0/21    2048      available
+194.147.224.0/22.415768       available
+195.62.89.0/24      256       available
+Number of /24 available for future allocation: 519
