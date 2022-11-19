@@ -242,5 +242,4 @@ Prefix              Addresses Status
 212.102.123.0/24    256       reserved
 217.18.80.0/20      4096      reserved
 217.197.96.0/20     4096      reserved
-194.147.222.0/23    512       available
-Number of /24 available for future allocation: 510
+Number of /24 available for future allocation: 508
