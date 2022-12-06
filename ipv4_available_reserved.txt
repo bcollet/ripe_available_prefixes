@@ -2,6 +2,7 @@ Prefix              Addresses Status
 2.57.0.0/22         1024      reserved
 2.57.236.0/22       1024      reserved
 31.12.72.0/22       1024      reserved
+45.9.20.0/24        256       reserved
 45.13.24.0/22       1024      reserved
 45.133.240.0/22     1024      reserved
 77.247.192.0/21     2048      reserved
@@ -149,6 +150,7 @@ Prefix              Addresses Status
 193.105.29.0/24     256       reserved
 193.105.129.0/24    256       reserved
 193.105.172.0/24    256       reserved
+193.109.56.0/23     512       reserved
 193.109.209.0/24    256       reserved
 193.109.219.0/24    256       reserved
 193.111.47.0/24     256       reserved
@@ -158,11 +160,13 @@ Prefix              Addresses Status
 193.111.236.0/24    256       reserved
 193.162.35.0/24     256       reserved
 193.163.170.0/24    256       reserved
+193.176.96.0/21     2048      reserved
 193.194.137.0/24    256       reserved
 193.200.154.0/24    256       reserved
 193.201.112.0/23    512       reserved
 193.228.1.0/24      256       reserved
 193.238.84.0/24     256       reserved
+193.239.176.0/23    512       reserved
 193.242.117.0/24    256       reserved
 193.242.125.0/24    256       reserved
 193.242.180.0/23    512       reserved
@@ -195,10 +199,12 @@ Prefix              Addresses Status
 194.88.11.0/24      256       reserved
 194.99.64.0/23      512       reserved
 194.106.206.0/23    512       reserved
+194.107.126.0/24    256       reserved
 194.110.207.0/24    256       reserved
 194.110.239.0/24    256       reserved
 194.116.208.0/23    512       reserved
 194.116.226.0/23    512       reserved
+194.126.129.0/24    256       reserved
 194.139.30.0/24     256       reserved
 194.140.247.0/24    256       reserved
 194.145.115.0/24    256       reserved
@@ -246,4 +252,4 @@ Prefix              Addresses Status
 217.18.80.0/20      4096      reserved
 217.197.96.0/20     4096      reserved
 193.104.229.0/24    256       available
-Number of /24 available for future allocation: 527
+Number of /24 available for future allocation: 542
